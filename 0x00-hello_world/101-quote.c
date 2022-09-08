@@ -2,7 +2,7 @@
 
 /**
  * main - output to stderr
- * Return : 1 on exit status success,0 on fail
+ * Return: 1 on exit status success,0 on fail
  */
 int main(void)
 {
