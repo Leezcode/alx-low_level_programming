@@ -3,8 +3,9 @@
 /**
  * main - prints all multiples of 3 and 5 up to 1024,
  * followed by a new line
+ * Return: 0 on successs
  */
-void main(void)
+int main(void)
 {
 	int i;
 	
@@ -13,4 +14,5 @@ void main(void)
 			printf("%d\n", i);	
 		}
 	}
+	return (0);
 }
